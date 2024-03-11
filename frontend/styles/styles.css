@@ -16,7 +16,7 @@ body {
 }
 
 h1, h2 {
-  color: #93005a;
+  color: navy;
 }
 
 #root {
@@ -33,4 +33,8 @@ header, footer {
   flex-direction: column;
   align-items: center;
   padding: 1rem;
+}
+
+section {
+  padding: 2rem;
 }
